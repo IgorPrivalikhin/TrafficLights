@@ -51,30 +51,4 @@ class ViewController: UIViewController {
         }
     }
 }
-    /* !!!!!!!!!!!
-     if redLight.alpha == 0.5 && yellowLight.alpha == 0.5 && greenLight.alpha == 0.5 {
-        redLight.alpha = 1
-    } else if redLight.alpha == 1 && yellowLight.alpha == 0.5 && greenLight.alpha == 0.5 {
-        yellowLight.alpha = 1 }
-    if redLight.alpha == 1 && yellowLight.alpha == 1 && greenLight.alpha == 0.5 {
-        redLight.alpha = 0.5}*/
-        
-        
-        
-        //} else if redLight.alpha == 0.5 && yellowLight.alpha == 0.5 && greenLight.alpha == 0.5 {
-        //greenLight.alpha = 1
-        
-        
-        
-        
-        
-        
-        
-        
-        /* if  redLight.alpha == 0.5 && yellowLight.alpha == 0.5 && greenLight.alpha == 0.5 {
-            redLight.alpha = 1
-        } else if redLight.alpha == 1 && yellowLight.alpha == 0.5 && greenLight.alpha == 0.5 {
-            yellowLight.alpha = 1
-        } else if redLight.alpha == 1 && yellowLight.alpha == 1 && greenLight.alpha == 0.5 {
-            greenLight.alpha = 1
-        }*/
+    
